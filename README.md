@@ -2,6 +2,7 @@
 
 ## Installation
 
+- Clone or fork this repo
 - Run `npm i` to install required packages
 - Run `touch .env`
 - Copy and paste `PORT=3000` and `MONGO_ARI=DB_URL` into the .env file
